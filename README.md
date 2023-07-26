@@ -3,6 +3,6 @@ Statistic about IT
 # program
 program take place in 'work'
 # run 
-work/scripts/main2.py to run programm
+work/scripts/main2.py to run program
 # data
 data take place in 'data' (.csv files)
