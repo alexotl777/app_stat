@@ -2,6 +2,7 @@
 Statistic about IT
 # program
 program take place in 'work'
+Change branch on "master"
 # run 
 work/scripts/main2.py to run program
 # data
